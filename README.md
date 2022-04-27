@@ -64,6 +64,6 @@
 &nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-apr-alg-log-pro-bas-ava?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-apr-alg-log-pro-bas-ava?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-apr-alg-log-pro-bas-ava?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/mod-apr-alg-log-pro-bas-ava?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
