@@ -4,7 +4,7 @@
 
  ***Conteúdo do Modulo:***
 
-* [ ] Sobre o Curso.
+* [ ] [Sobre o Curso.](https://github.com/Devsgeeknerd/cla-sob-cur-alg-log-pro-bas-ava "Veja os detalhes")
 * [ ] Como Conseguir Ajuda?
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
