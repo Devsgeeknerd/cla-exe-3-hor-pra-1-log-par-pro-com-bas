@@ -6,6 +6,8 @@
 * [ ] [Sobre o Curso.](https://github.com?Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava "Ver aula")
 * [ ] [Como Conseguir Ajuda.](https://github.com/Desvgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava "Ver aula")
 
+TABLE OF CONTENTS
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-apr-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
