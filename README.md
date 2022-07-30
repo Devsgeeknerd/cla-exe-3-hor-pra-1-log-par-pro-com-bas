@@ -4,7 +4,7 @@
 ***Conteúdo do Módulo:***
 
 * [ ] [Sobre o Curso.](https://github.com?Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava "Ver aula")
-* [ ] []()
+* [ ] [Como Conseguir Ajuda.]()
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-apr-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
