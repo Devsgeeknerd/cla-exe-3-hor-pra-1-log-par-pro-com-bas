@@ -40,6 +40,7 @@
 <!-- AUTHORS -->
 <!-- ## AUTORES -->
 <!-- ACKNOWLEDGEMENTS -->
+## AGRADECIMENTOS
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-apr-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
