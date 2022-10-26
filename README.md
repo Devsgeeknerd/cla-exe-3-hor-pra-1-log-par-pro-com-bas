@@ -44,16 +44,16 @@
 <!-- INFORMATION -->
 ## INFORMAÇÕES
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-apr-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-apr-alg-log-par-pro-bas-ava&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![code size](https://img.shields.io/github/languages/code-size/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
