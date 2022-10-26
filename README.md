@@ -6,8 +6,8 @@
 * [ ] [Sobre o Curso.](https://github.com?Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava "Ver aula")
 * [ ] [Como Conseguir Ajuda.](https://github.com/Desvgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava "Ver aula")
 
-<!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDOS -->
+<!-- Table of Contents -->
+<!-- ## Table de Conteúdos -->
 
 <!-- * [Vista por cima](#vista-por-cima) -->
   <!-- * [Foto da tela](#foto-da-tela) -->
@@ -21,28 +21,28 @@
 <!-- * [Agradecimentos](#agradecimentos) -->
 <!-- * [Informações](#informações) -->
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-<!-- LINKS -->
-<!-- ### LINKS -->
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTINUO -->
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-<!-- AUTHORS -->
-<!-- ## AUTORES -->
-<!-- ACKNOWLEDGEMENTS -->
-<!-- ## AGRADECIMENTOS -->
-<!-- INFORMATION -->
-## INFORMAÇÕES
+<!-- Overview-->
+<!-- ## Vista por Cima -->
+<!-- Screenshot -->
+<!-- ### Foto da Tela -->
+<!-- Links -->
+<!-- ### Links -->
+<!-- My Process -->
+<!-- ## Meu Processo -->
+<!-- Built with -->
+<!-- ### Construido com -->
+<!-- What I Learned -->
+<!-- ### O que Aprendi -->
+<!-- Continued Development -->
+<!-- ### Desenvolvimento Continuo -->
+<!-- Useful Resources -->
+<!-- ### Recursos Uteis -->
+<!-- Authors -->
+<!-- ## Autores -->
+<!-- Acknowledgments -->
+<!-- ## Agradecimentos -->
+<!-- Information -->
+## Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-apr-alg-log-par-pro-bas-ava&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
