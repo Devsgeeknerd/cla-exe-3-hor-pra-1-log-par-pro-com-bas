@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Sobre o Curso.](https://github.com/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava "Ver aula")
+* [x] [Sobre o Curso.](https://github.com/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava "Ver aula")
 * [ ] [Como Conseguir Ajuda.](https://github.com/Desvgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava "Ver aula")
 
 <!-- Table of Contents -->
